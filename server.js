@@ -39,4 +39,4 @@ server.get("/genre", function (req, res) {
 //ek port par
 server.listen(4000);
 
-//http://localhost:4000/your_path
+//http://localhost:4000/end_point
